@@ -48,6 +48,8 @@ $ python3 main.py <json_file_from_extraction>
 
 # Rerun for each "day" of the rotating schedule as needed
 ```
+## Issues
+Any issues with the code of generations can be reported through the [issue-tracker](https://github.com/Piflyer/bluefish3-open-sourced/issues)
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Any help or feedback will greatly be appreciated.

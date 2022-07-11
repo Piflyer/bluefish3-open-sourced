@@ -14,7 +14,7 @@ Traffic is becoming an increasingly dangerous issue, especially during the time 
 `pip3 install pathfinding csv copy json threading numpy`
 
 ## Edit files to suit your circumstances
-* Create CSV for `extraction.py` with the following format
+* Create CSV for `extraction.py` with the sample format below
 * Configure `extraction.py` to necessary options
 * Create 2D floor matrices in `floormatrices.py`
 * Create room references in `location.py`

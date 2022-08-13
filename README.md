@@ -61,3 +61,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [Tim Nguyen](https://thisistim.dev)
 
 [Phineas Scovel](https://github.com/pitfall24)
+
+[Python-Pathfinding](https://pypi.org/project/pathfinding/)
